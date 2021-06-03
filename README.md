@@ -1,2 +1,6 @@
-# Practice
+<?php
+/*
+Plugin Name: Hello world
+*/
+}
 
